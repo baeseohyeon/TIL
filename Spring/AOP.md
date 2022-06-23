@@ -7,8 +7,8 @@
 
 Aspect :  관점이라는 뜻으로 어플리케이션을 바라보는 관점을 하나하나의 기능에서 여러 클래스에 동일하게 
 사용되는 부가기능 으로 달리 보는것(아래 그림 예시)
-![img.png](img.png)
 이렇게 Aspect를 사용한 프로그래밍을 AOP(Aspect-Oriented-Programming) 즉 관점지향 프로그래밍 이라고 한다.
+![img.png](img.png)
 
 ## AOP 적용 방식 3가지
 ### 컴파일 시점
